@@ -1,19 +1,28 @@
 # SbModFixer
-What does this mod do?
-Mod made for hypixel
-This mod allows you to control lag caused by entities on your Minecraft client. The mod executes a clientside wide clear lag script which removes all loaded entities.
-It also fixes Mod incompatibilities
+**READ THIS**
 
- 
-How do i use Mod?
-You dont have to do anything, this is a performance mod which just fixes bugs in your game.
+*What does SBModFixer do?*
+SBModFixer is a mod that makes mods communicate with each other for a more optimised experience for the user. This will avoid crashes and sometimes fix problems that mods cause to other mods.
 
- 
+*Features*
+-Ordered startup mod loading
+-United calculations between mods
+-Hyaddons gui fixer
+-UUID shower
+-Tells mods which pet is in use
+-globalised graphics loader
+-fixed NEU texture loading crash
+-fixed SBE burrow API not refreshing
+-fixed DSM conflict with NEU causing crashes
 
-What version of Minecraft is this for!?
-The current version will run on 1.8.9 and 1.12.2
+*New features* (1.0.3)
+-made NEU load before skytils
+-fixed DSM fixer feature causing fps drops
+-fixed API loader causing fps drops
+-removed herobrine 
 
- 
-
-How do I install this mod?
-Place the downloaded jar into the mods folder of your minecraft folder
+*How to use?*
+SBModFixer needs to be installed and placed in your minecraft mods folder.
+All feature are turned on automatically when starting up the game (Toggleable GUI feature coming soon!)
+Before installation be sure to remove the old version of SBModFixer.
+Make sure to have Optifine for 1.8.9 installed before downloading this mod!
